@@ -13,7 +13,6 @@
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.2",
     "@supabase/supabase-js": "2",
-    "react-icons/fi": "latest",
     "react-icons": "^5.5.0"
   },
   "devDependencies": {
