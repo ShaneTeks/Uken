@@ -1,0 +1,6 @@
+{
+  "name": "AnimAI Navbar App",
+  "description": "A React application demonstrating a navigation menu similar to the provided image, with blank pages for each menu item.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
